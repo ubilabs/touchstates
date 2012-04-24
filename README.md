@@ -2,7 +2,7 @@
 
 This plugin will bypass the 300ms delay when pressing elements on mobile devices such as iOS and Android.
 
-You simply hav to replace your `:active` selector with `.active` and register the specific elements.
+You simply have to replace your `:active` selector with `.active` and register the specific elements.
 
 ### Example
 
